@@ -13,6 +13,8 @@ Mapped delivery locations to identify hotspots and demand zones
 
 Raw dataset (CSV)
 Excel workbook containing cleaned data, pivot tables, and visualizations
+
+
 👨🏽‍💻 About Me
 
 I'm Ireneous, an aspiring data analyst who enjoys using Excel to turn raw data into clear, actionable insights. This project demonstrates my ability to clean data, create dashboards, and tell a story using nothing but Excel.
